@@ -1,5 +1,5 @@
 ---
-title: Another Sample Page
+title: Privilege Escalation
 published: true
 ---
 
